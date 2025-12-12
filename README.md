@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://restaurant-page-five-alpha.vercel.app/
+**URL**: https:
 
 ## How can I edit this code?
 
