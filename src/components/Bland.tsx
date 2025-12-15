@@ -45,7 +45,7 @@ export default function SuitesCarousel() {
       {/* Buttons */}
       <button
         onClick={prevSlide}
-        className="absolute left-2 sm:left-5 top-1/2 -translate-y-1/2 z-10 bg-black/70 p-2 rounded-full text-white"
+        className="absolute left-2 sm:left-5 top-1/2 -translate-y-1/2 z-10 bg-black/70 p-2 rounded-full text-white shadow-lg bg-white group-hover:blur-sm hover:!blur-none cursor-pointer overflow-hidden"
       >
         <ChevronLeft size={20} />
       </button>
